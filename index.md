@@ -1,9 +1,5 @@
 # PORTFOLIO
 ---
-**🌱 I’m passionate about making data work for people.**
-
-With a background in export operations, I enjoy automating reports and turning business data into clear, useful insights. I love building simple, practical tools with Power BI, Excel, and VBA to help teams save time and make smarter decisions.
-
 ## 🎓 Education
 
 **Master’s in International Business**  
