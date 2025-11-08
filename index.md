@@ -1,5 +1,8 @@
 # PORTFOLIO
 ---
+Hi, I’m Tien!
+I get excited about making data less scary and more helpful for everyone. I love building little tools in Excel or Power BI to make work easier and more fun. If I can save a team some time or help them see their numbers more clearly, that’s a good day for me.
+
 ## 🎓 Education
 
 **Master’s in International Business**  
